@@ -1,1 +1,3 @@
-from .models import *
+"""
+Django Events Manager
+"""
