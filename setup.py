@@ -6,10 +6,10 @@ setup(
   version = '0.1',
   license='MIT',
   description = 'Event management utility classes',   # Give a short description about your library
-  author = 'Erick Obuya',                   # Type in your name
-  author_email = 'erickochieng766@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/django-eventify/django-eventify',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/django-eventify/eventfy/archive/refs/tags/v_01.tar.gz',    # I explain this later on
+  author = 'Poppad Rahul',                   # Type in your name
+  author_email = 'rahulpoppad.1999@gmail.com',      # Type in your E-Mail
+  url = 'https://github.com/Rahulpoppad/django-eventify',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Rahulpoppad/django-eventify/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['EVENT', 'BOOKING'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'django',
