@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'django_eventify',
   packages = ['django_eventify'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'Event management utility classes',   # Give a short description about your library
   author = 'Poppad Rahul',                   # Type in your name
   author_email = 'rahulpoppad.1999@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Rahulpoppad/django-eventify',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Rahulpoppad/django-eventify/archive/refs/tags/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Rahulpoppad/django-eventify/archive/refs/tags/v_02.tar.gz',    # I explain this later on
   keywords = ['EVENT', 'BOOKING'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'django',
