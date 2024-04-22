@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'django_eventify',
   packages = ['django_eventify'],
-  version = '0.1',
+  version = '0.7',
   license='MIT',
   description = 'Event management utility classes',   # Give a short description about your library
   author = 'Poppad Rahul',                   # Type in your name
