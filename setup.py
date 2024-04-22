@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
   name = 'django_eventify',
-  packages = ['django_eventify'],
-  version = '0.10',
+  packages = ['django_eventify', 'django_eventify.migrations'],
+  version = '0.11',
   license='MIT',
   description = 'Event management utility classes',   # Give a short description about your library
   author = 'Poppad Rahul',                   # Type in your name
